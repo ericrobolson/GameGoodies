@@ -1,0 +1,10 @@
+{
+    "name": "Samus",
+    "weight": 10800,
+    "gravity_modifier": 7,
+    "walk_speed": 111,
+    "run_speed": 165,
+    "air_speed": 110,
+    "fall_speed": 133,
+    "fast_fall_speed": 216
+}

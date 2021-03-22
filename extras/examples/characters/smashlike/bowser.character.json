@@ -1,0 +1,10 @@
+{
+    "name": "Bowser",
+    "weight": 13500,
+    "gravity_modifier": 12,
+    "walk_speed": 90,
+    "run_speed": 225,
+    "air_speed": 115,
+    "fall_speed": 177,
+    "fast_fall_speed": 283
+}

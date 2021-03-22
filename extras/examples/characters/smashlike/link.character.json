@@ -1,0 +1,10 @@
+{
+    "name": "Link",
+    "weight": 10400,
+    "gravity_modifier": 9,
+    "walk_speed": 124,
+    "run_speed": 153,
+    "air_speed": 92,
+    "fall_speed": 160,
+    "fast_fall_speed": 304
+}

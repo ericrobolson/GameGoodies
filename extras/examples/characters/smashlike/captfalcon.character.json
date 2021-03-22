@@ -1,0 +1,11 @@
+{
+    "name": "Captain Falcon",
+    "weight": 10400,
+    "gravity_modifier": 12,
+    "walk_speed": 98,
+    "run_speed": 255,
+    "air_speed": 121,
+    "fall_speed": 186,
+    "fast_fall_speed": 298,
+    "states": []
+}

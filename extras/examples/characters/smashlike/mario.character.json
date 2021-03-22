@@ -1,0 +1,10 @@
+{
+    "name": "Mario",
+    "weight": 9800,
+    "gravity_modifier": 8,
+    "walk_speed": 115,
+    "run_speed": 176,
+    "air_speed": 120,
+    "fall_speed": 150,
+    "fast_fall_speed": 240
+}

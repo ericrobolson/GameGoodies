@@ -1,0 +1,10 @@
+{
+    "name": "Jiggly Puff",
+    "weight": 6800,
+    "gravity_modifier": 5,
+    "walk_speed": 73,
+    "run_speed": 127,
+    "air_speed": 133,
+    "fall_speed": 98,
+    "fast_fall_speed": 156
+}

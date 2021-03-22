@@ -1,0 +1,10 @@
+{
+    "name": "Gannon",
+    "weight": 11800,
+    "gravity_modifier": 10,
+    "walk_speed": 76,
+    "run_speed": 134,
+    "air_speed": 83,
+    "fall_speed": 165,
+    "fast_fall_speed": 264
+}

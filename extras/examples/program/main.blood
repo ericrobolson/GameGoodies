@@ -1,0 +1,7 @@
+;; IDEA: make a midi sequence generator program?
+
+(+ 1 2 3 4)
+
+(define (add a b) (+ a b))
+
+(struct (position x:num y:num z:num))

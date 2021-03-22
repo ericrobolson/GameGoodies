@@ -1,0 +1,10 @@
+{
+    "name": "Lucina",
+    "weight": 9000,
+    "gravity_modifier": 7,
+    "walk_speed": 157,
+    "run_speed": 196,
+    "air_speed": 107,
+    "fall_speed": 158,
+    "fast_fall_speed": 252
+}
